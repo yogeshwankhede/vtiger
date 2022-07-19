@@ -25,7 +25,7 @@ public class BrokenLinks002 {
 	public static void main(String[] args) throws IOException {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://www.amazon.in/");
+		driver.get("https://www.flipkart.com/");
 		List<WebElement> allLinks = driver.findElements(By.xpath("//a"));
 		// int count = allLinks.size();
 		for (WebElement links : allLinks) {
