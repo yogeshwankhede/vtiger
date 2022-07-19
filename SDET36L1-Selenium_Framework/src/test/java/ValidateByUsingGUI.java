@@ -44,9 +44,8 @@ public class ValidateByUsingGUI {
 			if(actualProjectName.equals(expectedProjectName))
 			{
 				System.out.println("Project created ");
-				break;
-			}
-			
+GIT PULL TRY2
+			System.out.println("GIT PULL TRY2 ");
 		}
 		System.out.println("executed");
 		System.out.println("GIT PR Request");
