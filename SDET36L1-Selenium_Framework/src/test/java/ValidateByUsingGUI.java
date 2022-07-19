@@ -43,13 +43,15 @@ public class ValidateByUsingGUI {
 			String actualProjectName=glist.getText();
 			if(actualProjectName.equals(expectedProjectName))
 			{
-				System.out.println("Project created ");
-GIT PULL TRY2
+			System.out.println("Project created ");
 			System.out.println("GIT PULL TRY2 ");
-		}
-		System.out.println("executed");
-		System.out.println("GIT PR Request");
-		driver1.quit();
+			
+			System.out.println("executed");
+			System.out.println("GIT PR Request");
+			driver1.quit();
 
-	}
-}
+		}
+		
+	
+
+}}}
