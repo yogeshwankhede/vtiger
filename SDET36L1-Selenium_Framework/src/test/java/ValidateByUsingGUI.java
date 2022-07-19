@@ -44,12 +44,10 @@ public class ValidateByUsingGUI {
 			if(actualProjectName.equals(expectedProjectName))
 			{
 				System.out.println("Project created ");
-GIT PULL TRY2
 			System.out.println("GIT PULL TRY2 ");
 		}
 		System.out.println("executed");
 		System.out.println("GIT PR Request");
 		driver1.quit();
-
-	}
+		}	}
 }
