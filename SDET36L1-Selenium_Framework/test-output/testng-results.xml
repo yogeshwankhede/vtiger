@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-18T16:01:34 IST" name="Default suite" finished-at="2022-07-18T16:01:34 IST" duration-ms="57">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T16:01:34 IST" name="Default test" finished-at="2022-07-18T16:01:34 IST" duration-ms="57">
+      <class name="org.tyss.sms001.MavenTestNgBuildReady01">
+        <test-method signature="testAction1()[pri:0, instance:org.tyss.sms001.MavenTestNgBuildReady01@3e11f9e9]" started-at="2022-07-18T16:01:34 IST" name="testAction1" finished-at="2022-07-18T16:01:34 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAction1 -->
+        <test-method signature="testAction2()[pri:0, instance:org.tyss.sms001.MavenTestNgBuildReady01@3e11f9e9]" started-at="2022-07-18T16:01:34 IST" name="testAction2" finished-at="2022-07-18T16:01:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAction2 -->
+        <test-method signature="testAction3()[pri:0, instance:org.tyss.sms001.MavenTestNgBuildReady01@3e11f9e9]" started-at="2022-07-18T16:01:34 IST" name="testAction3" finished-at="2022-07-18T16:01:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAction3 -->
+        <test-method signature="testAction4()[pri:0, instance:org.tyss.sms001.MavenTestNgBuildReady01@3e11f9e9]" started-at="2022-07-18T16:01:34 IST" name="testAction4" finished-at="2022-07-18T16:01:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAction4 -->
+      </class> <!-- org.tyss.sms001.MavenTestNgBuildReady01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

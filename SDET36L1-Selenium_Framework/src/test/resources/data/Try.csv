@@ -1,0 +1,20 @@
+OrderDate,Region,Rep,Item,Units,Unit Cost,Total
+9-1-14,Central,Smith,Desk,2, 125.00 , 250.00 
+6-17-15,Central,Kivell,Desk,5, 125.00 , 625.00 
+9-10-15,Central,Gill,Pencil,7, 1.29 , 9.03 
+11-17-15,Central,Jardine,Binder,11, 4.99 , 54.89 
+10-31-15,Central,Andrews,Pencil,14, 1.29 , 18.06 
+2-26-14,Central,Gill,Pen,27, 19.99 , 539.73 
+10-5-14,Central,Morgan,Binder,28, 8.99 , 251.72 
+12-21-15,Central,Andrews,Binder,28, 4.99 , 139.72 
+2-9-14,Central,Jardine,Pencil,36, 4.99 , 179.64 
+8-7-15,Central,Kivell,Pen Set,42, 23.95 ," 4,557.00 "
+1-15-15,Central,Gill,Binder,46, 8.99 , 413.54 
+1-23-14,Central,Kivell,Binder,50, 19.99 , 999.50 
+3-24-15,Central,Jardine,Pen Set,50, 4.99 , 249.50 
+5-14-15,Central,Gill,Pencil,53, 1.29 , 68.37 
+7-21-15,Central,Morgan,Pen Set,55, 12.49 , 686.95 
+4-10-15,Central,Andrews,Pencil,66, 1.99 , 131.34 
+12-12-14,Central,Smith,Pencil,67, 1.29 , 86.43 
+4-18-14,Central,Andrews,Pencil,75, 1.99 , 149.25 
+5-31-15,Central,Gill,Binder,80, 8.99 , 719.20 
