@@ -22,5 +22,10 @@ public class MavenTestNgBuildTest {
 		System.out.println("This is our 4th test");
 		
 	}
+	@Test
+	public void gITAction3() {
+		System.out.println("This is our git pull test");
+		
+	}
 
 }
